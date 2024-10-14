@@ -1,17 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-qXfCkxD)
-# template_project
+# HOME PAGE
+![Screenshot 2024-10-14 114819](https://github.com/user-attachments/assets/5bb6d24f-2a69-4c3f-88fb-8bd809c8cd8f)
 
-A new Flutter project.
+# DETAIL PAGE
+![Screenshot 2024-10-14 114858](https://github.com/user-attachments/assets/4b3ded09-58a8-4a2d-a80c-be3a286cb688)
 
-## Getting Started
+# TENTANG APLIKASI
+![Screenshot 2024-10-14 114931](https://github.com/user-attachments/assets/aaa9ffa7-ce00-4357-bed8-5139a302f3a9)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
